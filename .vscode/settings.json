@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "e:\\Miniconda3\\envs\\gluon\\python.exe",
+    "python.formatting.provider": "black"
+}
