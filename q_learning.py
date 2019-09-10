@@ -4,7 +4,7 @@ import time
 
 np.random.seed(1)
 
-n_state = 10
+n_state = 5
 actions = ["left", "right"]
 
 
